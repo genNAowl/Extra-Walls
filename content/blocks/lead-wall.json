@@ -1,0 +1,15 @@
+{
+	"name": "Lead Wall",
+	"type": "Wall",
+	"description": "A cheap defensive block. Releases electricity on contact.",
+	"category": "defense",
+	"requirements": [
+		{ "item": "lead", "amount": 6 },
+	],
+	"research": "copper-wall",
+	"health": 240, 
+	"lightningChance": 1,
+	"lightningDamage": 5,
+	"lightningLength": 10,
+	"lightningColor": "8c7fa9",
+}

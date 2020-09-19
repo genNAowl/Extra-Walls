@@ -1,0 +1,14 @@
+{
+	"name": "Silicon Wall",
+	"type": "Wall",
+	"description": "A weak defensive block that deflects small projectiles.",
+	"category": "defense",
+	"requirements": [
+		{ "item": "silicon", "amount": 6 },
+	],
+	"research": "lead-wall-large",
+	"chanceDeflect": 5,
+	"health": 260, 
+	"flashHit": false,
+	"deflect": true,
+}

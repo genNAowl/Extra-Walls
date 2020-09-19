@@ -1,0 +1,12 @@
+{
+	"name": "Large Graphite Wall",
+	"type": "Wall",
+	"description": "A dense defensive block. Spans multiple tiles.",
+	"category": "defense",
+	"requirements": [
+		{ "item": "graphite", "amount": 24 },
+	],
+	"research": "graphite-wall",
+	"size": 2,
+	"health": 1600, 
+}

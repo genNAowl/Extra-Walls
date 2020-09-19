@@ -1,0 +1,16 @@
+{
+	"name": "Large Lead Wall",
+	"type": "Wall",
+	"description": "A cheap defensive block. Releases electricity on contact. Spans multiple tiles.",
+	"category": "defense",
+	"requirements": [
+		{ "item": "lead", "amount": 24 },
+	],
+	"research": "lead-wall",
+	"size": 2,
+	"health": 960, 
+	"lightningChance": 1,
+	"lightningDamage": 5,
+	"lightningLength": 10,
+	"lightningColor": "8c7fa9",
+}

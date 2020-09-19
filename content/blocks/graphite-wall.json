@@ -1,0 +1,11 @@
+{
+	"name": "Graphite Wall",
+	"type": "Wall",
+	"description": "A dense defensive block.",
+	"category": "defense",
+	"requirements": [
+		{ "item": "graphite", "amount": 6 },
+	],
+	"research": "copper-wall-large",
+	"health": 400, 
+}

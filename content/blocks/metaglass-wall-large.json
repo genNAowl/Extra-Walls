@@ -1,0 +1,14 @@
+{
+	"name": "Large Metaglass Wall",
+	"type": "LiquidRouter",
+	"description": "A defensive block that can store liquids. Spans multiple tiles.",
+	"category": "defense",
+	"requirements": [
+		{ "item": "metaglass", "amount": 20 },
+		{ "item": "graphite", "amount": 8 },
+	],
+	"research": "metaglass-wall",
+	"size": 2,
+	"health": 1280, 
+	"liquidCapacity": 500,
+}

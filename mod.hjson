@@ -1,0 +1,6 @@
+name: "extra-walls"
+displayName: "Extra Walls" //what displays in the mod selection menu
+author: "genNAowl"
+description: "A mod that adds walls made of every buildable material"
+version: "1.0"
+minGameVersion: "105"

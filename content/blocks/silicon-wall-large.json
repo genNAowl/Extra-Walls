@@ -1,0 +1,15 @@
+{
+	"name": "Large Silicon Wall",
+	"type": "Wall",
+	"description": "A weak defensive block that deflects small projectiles. Spans multiple tiles",
+	"category": "defense",
+	"requirements": [
+		{ "item": "silicon", "amount": 24 },
+	],
+	"research": "silicon-wall",
+	"chanceDeflect": 5,
+	"size": 2,
+	"health": 1040, 
+	"flashHit": false,
+	"deflect": true,
+}
