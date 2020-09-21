@@ -8,7 +8,7 @@
 	],
 	"research": "lead-wall-large",
 	"chanceDeflect": 5,
-	"health": 260, 
+	"health": 320, 
 	"flashHit": false,
 	"deflect": true,
 }
